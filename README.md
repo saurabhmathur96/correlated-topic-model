@@ -1,5 +1,7 @@
 # Correlated Topic Model
 
+<img src="./plate-diagram.png" alt="plate diagram"/>
+
 
 Most frequent words for each topic in subset of 20newsgroups dataset
 ```
